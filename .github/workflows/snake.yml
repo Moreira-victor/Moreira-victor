@@ -1,18 +1,17 @@
 name: Generate Snake
 
 on:
-  # Executa automaticamente a cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
-  
-  # Permite executar manualmente na aba "Actions" para testar
   workflow_dispatch:
-  
-  # Executa a cada push na branch master/main
   push:
     branches:
     - master
     - main
+
+permissions:
+  contents: write
+# --------------------------------
 
 jobs:
   build:
