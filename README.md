@@ -39,5 +39,4 @@
 
   <br><br>
 
-  <img src="https://raw.githubusercontent.com/Moreira-victor/Moreira-victor/output/github-contribution-grid-snake.svg?palette=github-dark&v=2" alt="snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/Moreira-victor/Moreira-victor/output/github-contribution-grid-snake.gif" alt="snake animation" /></div>
