@@ -39,6 +39,5 @@
 
   <br><br>
 
-  <img src="https://raw.githubusercontent.com/Moreira-victor/Moreira-victor/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
+<img src="https://raw.githubusercontent.com/Moreira-victor/Moreira-victor/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
