@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Victor Moreira
+# 👋 Olá, me chamo Victor Moreira
 
 Desenvolvedor de Software apaixonado por tecnologia e inovação.
 
