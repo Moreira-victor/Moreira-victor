@@ -1,48 +1,79 @@
+# 👋 Olá, eu sou Victor Moreira
+
+Desenvolvedor de Software apaixonado por tecnologia e inovação.
+
+## 🚀 Sobre Mim
+
+Sou um desenvolvedor focado em criar soluções de alta qualidade e escaláveis. Com experiência em diversas tecnologias, estou sempre buscando aprender e me manter atualizado com as melhores práticas do mercado.
+
+## 💻 Tecnologias e Ferramentas
+
+### Linguagens de Programação
+- Java
+- C
+- C#
+- Python
+- JavaScript
+
+### Frameworks e Ferramentas
+- Jupyter Notebook
+- Apache
+- MySQL
+
+### Design
+- Adobe Photoshop
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Moreira-victor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira-victor&layout=compact&lang_count=7&theme=tokyonight)
+
+## 🏆 Conquistas
+
+[Adicione suas conquistas, certificações, præۉos, etc.]
+
+## 📈 Contribuições
+
+[![Estatísticas de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Moreira-victor&theme=tokyonight)](https://github.com/Moreira-victor/github-readme-streak-stats)
+
+## 🎯 Projetos em Destaque
+
+### [Nome do Projeto 1]
+Breve descrição do projeto e suas principais funcionalidades.
+
+Tecnologias utilizadas: [Lista de tecnologias]
+
+### [Nome do Projeto 2]
+Breve descrição do projeto e suas principais funcionalidades.
+
+Tecnologias utilizadas: [Lista de tecnologias]
+
+### [Nome do Projeto 3]
+Breve descrição do projeto e suas principais funcionalidades.
+
+Tecnologias utilizadas: [Lista de tecnologias]
+
+## 🤝 Contribuições Open Source
+
+Estou sempre aberto a contribuir com projetos open source. Se você tem um projeto interessante, sinta-se à vontade para me chamar!
+
+## 📫 Como me encontrar
+
+- **LinkedIn**: [https://www.linkedin.com/in/victor-moreira-50b05620a/](https://www.linkedin.com/in/victor-moreira-50b05620a/)
+- **Instagram**: [https://www.instagram.com/moreira_sr/](https://www.instagram.com/moreira_sr/)
+
+## 🌐 Idiomas
+
+- Português (Nativo)
+- Inglês (Adicione seu nível)
+
+## 💬 Vamos conversar?
+
+Se você quer discutir sobre tecnologia, colaborar em projetos ou apenas dar um oi, fique à vontade para me contatar!
+
+---
+
 <div align="center">
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70a5fd&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+o+Victor+Moreira;Desenvolvedor+Java;Apaixonado+por+Sistemas;Estudante+de+A.D.S" alt="Typing SVG" />
-  </a>
-
-  <br>
-
-  <a href="https://www.linkedin.com/in/victor-moreira-50b05620a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/moreira_sr/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-
-  <br><br>
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moreira-victor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira-victor&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
-
-  <br>
-
-  <h3>🛠️ Tecnologias e Ferramentas</h3>
-
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  
-  <br><br>
-
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
-
-  <br><br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Moreira-victor/Moreira-victor@output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Moreira-victor/Moreira-victor@output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/Moreira-victor/Moreira-victor@output/github-contribution-grid-snake-dark.svg">
-  </picture>
-
+  <i>"Código é poesia escrita em lógica"</i>
 </div>
