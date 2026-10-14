@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Victor Moreira
+# 👋 Olá, eu sou Victor Moreira
 
 Desenvolvedor de Software apaixonado por tecnologia e inovação.
 
@@ -25,13 +25,10 @@ Sou um desenvolvedor focado em criar soluções de alta qualidade e escaláveis.
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Moreira-victor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Moreira-victor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&icon_color=79ff97)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira-victor&layout=compact&lang_count=7&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira-victor&layout=compact&lang_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9)
 
-## 🏆 Conquistas
-
-[Adicione suas conquistas, certificações, præۉos, etc.]
 
 ## 📈 Contribuições
 
@@ -39,20 +36,20 @@ Sou um desenvolvedor focado em criar soluções de alta qualidade e escaláveis.
 
 ## 🎯 Projetos em Destaque
 
-### [Nome do Projeto 1]
-Breve descrição do projeto e suas principais funcionalidades.
+### [Savorify-Tech](https://github.com/Moreira-victor/Savorify-Tech)
+Plataforma SaaS Multi-tenant de Gestão e Cardápio Digital para Food Service. Sistema completo com backend e frontend, permitindo gerenciamento de cardápios digitais para múltiplos estabelecimentos.
 
-Tecnologias utilizadas: [Lista de tecnologias]
+Tecnologias utilizadas: TypeScript, Docker Compose, Railway, Render, Vercel
 
-### [Nome do Projeto 2]
-Breve descrição do projeto e suas principais funcionalidades.
+### [mini-portifolio](https://github.com/Moreira-victor/mini-portifolio)
+Portfólio pessoal minimalista e responsivo desenvolvido com HTML5 e CSS3. Design elegante focado em apresentar projetos e habilidades de forma profissional.
 
-Tecnologias utilizadas: [Lista de tecnologias]
+Tecnologias utilizadas: HTML5, CSS3, JavaScript, GitHub Pages
 
-### [Nome do Projeto 3]
-Breve descrição do projeto e suas principais funcionalidades.
+### [Sistema-Votacao-Sockets](https://github.com/Moreira-victor/Sistema-Votacao-Sockets)
+Sistema de votação distribuído baseado em arquitetura Cliente-Servidor, implementado em Java utilizando a API de Sockets TCP/IP para comunicação confidencial entre aplicações.
 
-Tecnologias utilizadas: [Lista de tecnologias]
+Tecnologias utilizadas: Java, Sockets TCP/IP, Multithreading, Collections Framework
 
 ## 🤝 Contribuições Open Source
 
@@ -66,7 +63,7 @@ Estou sempre aberto a contribuir com projetos open source. Se você tem um proje
 ## 🌐 Idiomas
 
 - Português (Nativo)
-- Inglês (Adicione seu nível)
+- Inglês (intermediário)
 
 ## 💬 Vamos conversar?
 
